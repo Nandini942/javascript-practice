@@ -24,4 +24,14 @@ console.log(typeof accountID)
 console.log(typeof accountCity);
 //typeof undefined is undefined
 
+// JavaScript has 8 Datatypes
+// String
+// Number
+// Bigint
+// Boolean
+// Undefined
+// Null
+// Symbol
+// Object
+
 
